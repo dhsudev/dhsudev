@@ -6,7 +6,7 @@ Hello! I'm Lua, a CS student passionate about everything related to computers. I
 - **Web Technologies:** React
 - **Tools:** Adobe Suite, VSCode
 
-## Portfolio still working!
+## ⚒ Portfolio still working!
 
 ## 📫 Contact
 - **Email:** lua@gnomo.net
