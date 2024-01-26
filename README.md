@@ -1,4 +1,6 @@
-## 👋 Introduction
+
+![tumblr_62368b7e5f57ed0799f75014e5e581ec_1523971b_540](https://github.com/dhsudev/dhsudev/assets/74731906/a6b6a9e7-0fd3-4e7f-8a74-34f4fec2aefa)
+##👋 Introduction
 Hello! I'm Lua, a CS student passionate about everything related to computers. I also enjoy Graphic desing and love working with people! 
 
 ## 🚀 Skills (always learning)
