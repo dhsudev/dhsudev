@@ -1,5 +1,5 @@
 ## 👋 Introduction
-Hello! I'm Lua🦦, a IT student at *42 Barcelona* and *Intitut TIC Barcelona* about everything related to computers. I also enjoy Graphic desing and love working with people! 
+Hello! I'm Lua🦦, a IT student at **42 Barcelona** and **Intitut TIC Barcelona** about everything related to computers. I also enjoy Graphic desing and love working with people! 
 
 ## ⚒ Portfolio still working!
 
