@@ -19,5 +19,5 @@ I'm always open to interesting conversations and collaborations. Feel free to re
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhsudev&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 ## 🎷🦦 42 Cursus
-## 📚 [Libft} (https://github.com/dhsudev/libft)
-[![ltrevin-'s 42 stats](https://badge42.coday.fr/api/v2/clt7dwkvl1359101p454l9hxfq/stats?cursusId=21&coalitionId=205)](https://github.com/Coday-meric/badge42)
+  ### 📚 [Libft] (https://github.com/dhsudev/libft)
+[![ltrevin-'s 42 Libft Score](https://badge42.coday.fr/api/v2/clt7dwkvl1359101p454l9hxfq/project/3469206)](https://github.com/Coday-meric/badge42)
