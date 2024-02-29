@@ -6,11 +6,6 @@ Hello! I'm Lua, a IT student at *42 Barcelona* and *Intitut TIC Barcelona* about
 
 [![ltrevin-'s 42 stats](https://badge42.coday.fr/api/v2/clt7dwkvl1359101p454l9hxfq/stats?cursusId=21&coalitionId=205)](https://github.com/Coday-meric/badge42)
 
-## 🚀 Skills (always learning)
-- **Programming Languages:** C, Java, JavaScript
-- **Web Technologies:** React
-- **Tools:** Adobe Suite, VSCode
-
 ## ⚒ Portfolio still working!
 
 ## 📫 Contact
