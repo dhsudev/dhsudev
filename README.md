@@ -21,6 +21,6 @@ Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/ima
 ---
 ### 🦦 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhsudev&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsudev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsudev&layout=compact&theme=vision-friendly-dark)]
 
 ---
