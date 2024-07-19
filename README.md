@@ -5,7 +5,8 @@
 <a href="https://www.linkedin.com/in/luatrhe/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-<iframe src="https://gifer.com/embed/7jnE" width=480 height=340.800 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>
+![BANNER GIF](img/banner.gif)
+
 ### :woman_technologist: About Me :
 
 Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=20> **Barcelona** and <img src="https://agora.xtec.cat/iticbcn/wp-content/uploads/usu2389/2023/06/Imagotipo-1.png" width=20> **Intitut TIC Barcelona**. 
