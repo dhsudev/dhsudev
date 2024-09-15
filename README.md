@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi! I'm Lua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/luatrhe/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -10,7 +8,9 @@
 ### :woman_technologist: About Me :
 
 Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=30> **Barcelona** and <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=30> **Intitut Tecnològic de Barcelona**. 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+
+<img src="https://media.licdn.com/dms/image/sync/v2/D5627AQFdpwZ5DmRJow/articleshare-shrink_800/articleshare-shrink_800/0/1711970569877?e=2147483647&v=beta&t=Cpipl12ZVq29bBEmv3mKbwBDU2DAGa_5hJmx_M3pVSM" width="100">
 
 #### 🏗 Portfolio still working!
 ---
