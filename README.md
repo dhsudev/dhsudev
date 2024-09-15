@@ -20,7 +20,7 @@ Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/ima
 - **LinkedIn:** [Lua Trevín](https://www.linkedin.com/feed/)
 ---
 ### 🦦 My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhsudev&theme=dark&background=000000)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsudev&layout=compact&theme=vision-friendly-dark)]
+![dhsudev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhsudev&theme=dracula&hide_border=true)
+![dhsudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsudev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
