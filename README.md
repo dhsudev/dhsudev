@@ -9,7 +9,7 @@
 
 ### :woman_technologist: About Me :
 
-Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=30> **Barcelona** and <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=30> **Intitut Tecnologic de Barcelona**. 
+Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=30> **Barcelona** and <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=30> **Intitut Tecnològic de Barcelona**. 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 #### 🏗 Portfolio still working!
