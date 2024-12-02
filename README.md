@@ -9,14 +9,11 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me
 
-Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=30> **Barcelona** and <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=30> **Institut Tecnològic de Barcelona**. 
+Hello! I'm Lua, a IT student at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=30> **Barcelona** and <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=30> **Institut Tecnològic de Barcelona**.  <img src="https://media.licdn.com/dms/image/sync/v2/D5627AQFdpwZ5DmRJow/articleshare-shrink_800/articleshare-shrink_800/0/1711970569877?e=2147483647&v=beta&t=Cpipl12ZVq29bBEmv3mKbwBDU2DAGa_5hJmx_M3pVSM" width="100">
 
-
-<img src="https://media.licdn.com/dms/image/sync/v2/D5627AQFdpwZ5DmRJow/articleshare-shrink_800/articleshare-shrink_800/0/1711970569877?e=2147483647&v=beta&t=Cpipl12ZVq29bBEmv3mKbwBDU2DAGa_5hJmx_M3pVSM" width="100">
-
-#### ⚙️ My Skills
+### ⚙️ My Skills
 
 🤖 I'm starting my **robotics learning journey with a UR3 robot**. Check out my progress in [this repository](https://github.com/dhsudev/robotics_ur3).  
  
@@ -35,7 +32,7 @@ Some of my most used tools to code:
 - **Slack 42:** ltrevin-
 - **LinkedIn:** [Lua Trevín](https://www.linkedin.com/feed/)
 ---
-### 🦦 My Stats :
+### 🦦 My Stats
 
 ![dhsudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsudev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
