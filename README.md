@@ -27,7 +27,7 @@ Hello! I'm Lua, an IT student at <img src="https://encrypted-tbn0.gstatic.com/im
 
 ### 🔧 Tools I Use  
 
-[![Tools](https://skillicons.dev/icons?i=vim,git,github,idea,vscode,stackoverflow&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vim,git,github,idea,vscode,androidstudio,stackoverflow&theme=dark)](https://skillicons.dev)
 
 ---
 
