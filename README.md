@@ -19,7 +19,7 @@ Hello! I'm Lua, an IT student at <img src="https://encrypted-tbn0.gstatic.com/im
 
 🤖 **Robotics**: I'm starting my learning journey with a **UR3 robot**. Check out my progress in [this repository](https://github.com/dhsudev/robotics_ur3). Right now I'm starting to have fun with URCaps development!
 
-📚 **C Programming**: I've honed my skills through the **common core at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=20> School**! Check out [this list](https://github.com/dhsudev/dhsudev/blob/main/42Curriculum.md) to take a quick look to all my projects!.  
+📚 **C Programming**: I've honed my skills through the **common core at <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwavpr_3Ak5Nk2or0Krd65Nes4GXATttuU_zSdIZxPb131rvO45KqK9q_sBOQZbSprhkk&usqp=CAU" width=20> School**! Check out [👉this list👈](https://github.com/dhsudev/dhsudev/blob/main/42Curriculum.md) to take a quick look to all my projects!.  
 
 📱 **Cross-Platform Development**: Currently, I’m training in **Cross-Platform Application Development** at <img src="https://media0.giphy.com/media/hpWmrQTirHHuVf12tm/200w.gif" width=20> **ITB**, gaining expertise in **Kotlin**, **Java**, **database management**, **JavaScript**, **APIs**, etc. Take a look at [this terminal game](https://github.com/dhsudev/M03UF4_Laberint) I built in Java.
 
