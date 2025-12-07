@@ -2,7 +2,7 @@
 <p align="center">
   <img src="img/banner.gif" alt="banner">
 </br>
-  <a href="https://www.linkedin.com/in/luatrhe/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 </br>
   <img src="https://skillicons.dev/icons?i=c,java,kotlin,arduino,html,css,javascript&theme=dark" alt="Skill Icons">
 </p>
