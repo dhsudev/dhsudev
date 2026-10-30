@@ -26,7 +26,7 @@ Hi! I'm Lua, a **full-stack developer** who loves coding, robotics and exploring
 
 ### My 42 journey
 
-I completed the **common core at 42**, where I learned C, memory management, Unix, algorithms, multithreading and even built my own shell.
+I spent a year at **42** and got about halfway through the **common core**, learning C, memory management, Unix, algorithms, multithreading and even building my own shell.
 Check out [👉 this list 👈](42Curriculum.md) for a quick look at all my projects.
 
 ---
@@ -39,9 +39,12 @@ Check out [👉 this list 👈](42Curriculum.md) for a quick look at all my proj
 
 ### 📫 Contact
 
-![Discord](https://img.shields.io/badge/Discord-dhsudev-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Message me on Discord](https://img.shields.io/badge/Message_me_on_Discord-dhsudev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/544463906379399169)
 ---
 
 ### 🦦 My Stats
 
-![dhsudev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsudev&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhsudev&theme=dracula" alt="Top languages by repo" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhsudev&theme=dracula" alt="Top languages by commit" height="180">
+</p>
